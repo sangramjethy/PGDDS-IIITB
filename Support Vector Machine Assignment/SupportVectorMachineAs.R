@@ -1,4 +1,3 @@
-## SVM ASSIGNMENT- SANGRAM JETHY
 ############################################## Loading libraries ###########################################
 
 library(ggplot2)
